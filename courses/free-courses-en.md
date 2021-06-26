@@ -342,6 +342,7 @@
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [CSS3 tutorial for beginners \| Learn CSS3](https://www.udemy.com/course/css3-tutorial-for-beginners-learn-css3/) - Udemy
+* [CSS tutorial for beginners 🎨](https://youtube.com/playlist?list=PLZPZq0r_RZOONc3kkuRmBOlj67YAG6jqo) - Bro Code (YouTube)
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) - The Net Ninja (Shaun Pelling)
 * [HTML and CSS Crash Course](https://scrimba.com/learn/htmlcss) - Kevin Powell (scrimba)
@@ -759,6 +760,8 @@
 * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla Contributors
 * [Python Web Scraping & Crawling using Scrapy](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
+* [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/) - Colt Steele (Udemy)
+* [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Dr.Angela Yu (Udemy)
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [Web Devevelopment Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
